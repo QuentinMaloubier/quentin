@@ -4,5 +4,7 @@ public class Personnage{
 	}
 	public void Regarder(Direction direction, int distance){
 	}
+	public void Deplacer(Direction direction, int distance){
+	}
 }
 
